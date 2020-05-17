@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SinglePost /> Renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`<SinglePost /> renders correctly 1`] = `
+<div
+  className="container pb-5"
+>
+  <br />
+  
+</div>
+`;

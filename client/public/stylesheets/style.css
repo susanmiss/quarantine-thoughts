@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(247, 218, 199);
+    color: rgb(124, 60, 7);
+    font-family: 'Long Cang', cursive;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    color: rgb(3, 53, 3);
+    font-size: 54px;
+}
+
+p{
+    font-size: 34px;
+}
+
+.nav{
+    background-color: rgb(31, 46, 31);
+    width: 100%;
+    color: white;
+    opacity: .5;
+}
+nav a{
+    color: white;
+    font-size: 30px;
+    padding: 50px;;
+}
+
+.btn-general{
+    width: 100%;
+    background-color: rgb(47, 90, 66);
+    color: white;
+}
+
+.btn-general:hover{
+
+    background-color: white;
+    color:rgb(47, 90, 66);
+}
+
+.logo-img{
+    max-width: 60%;
+    border-radius: 15px;
+    opacity: .5;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.content{
+    font-size: 30px;;
+}
+
+.text-muted{
+    font-size: 22px;;
+}
