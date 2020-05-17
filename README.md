@@ -17,11 +17,7 @@ Create .env files to client and server folders and paste as follow:
 - - -  Information to paste in .env files - - -
 - Backend, use:
 
-MONGO_URI=mongodb+srv://admin:admin12345@trip4me4-qna01.mongodb.net/test?retryWrites=true&w=majority
-
-PASSWORD=8d77448b8035ec06eefc967d53
-
-ATABASE = mongodb+srv://susan:su2004@mern-crud-smartlogin-ifb6j.mongodb.net/test?retryWrites=true&w=majority
+DATABASE = mongodb+srv://susan:su2004@mern-crud-smartlogin-ifb6j.mongodb.net/test?retryWrites=true&w=majority
 
 JWT_SECRET=KWAUFHWKAUHF67734JHBFKS28347
 
@@ -40,8 +36,8 @@ After run npm install to ech folder and then npm start to each folder. Tu run th
 ```  
 
 You can signin, in order to create, delete and update a post. Use the follow:
-email: admin@admin.com  
-password: admin12345
+Name: Admin 
+password: 12345
 
 ## Contributing
 
