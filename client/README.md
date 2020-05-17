@@ -5,7 +5,8 @@ There is an admin area where is possible to create, delete, and update a post.
 
 ## Technologies
 
-MERN technology: MongoDB, Express, React and Node.js
+MERN technology: M
+ongoDB, Express, React and Node.js
 
 ## Installation
 
