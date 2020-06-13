@@ -3,6 +3,11 @@
 Quarantine Thoughts is a simple blog when we can share our thoughts in this quarantine times. I wanted to create a blog from scratch using MERN technology.
 There is an admin area where is possible to create, delete, and update a post.
 
+## Quick Look
+
+![Quarantine cover](./client/public/quarantine-cover.png)
+
+
 ## Technologies
 - MongoDB
 - Express
@@ -43,6 +48,4 @@ password: 12345
 
 Pull requests and suggestions are welcome.
 
-## Quick Look
 
-![Quarantine cover](./client/public/quarantine-cover.png)
